@@ -1,0 +1,31 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.log
+
+# Local databases
+*.db
+*.sqlite3
+users.db
+
+# Environment files
+.env
+
+# Mac system files
+.DS_Store
+
+# Virtual environments
+venv/
+venv310/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit files
+.streamlit/
+
+# VS Code settings
+.vscode/

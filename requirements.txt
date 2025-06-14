@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+opencv-python
+Pillow
+sqlalchemy
+python-dotenv
+pytesseract
+openai
+torchvision
+requests
