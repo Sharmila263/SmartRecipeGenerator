@@ -55,9 +55,6 @@ Go to Settings > Secrets
 
 Add:
 
-ini
-Copy
-Edit
 OPENROUTER_API_KEY = your-key-here
 
 Click Deploy.
