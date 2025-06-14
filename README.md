@@ -39,7 +39,7 @@ Smart-Recipe-Generator/
 
 # Clone the repository
 git clone https://github.com/Sharmila263/SmartRecipeGenerator.git
-cd Smart-Recipe-Generator
+cd SmartRecipeGenerator
 
 # Set up virtual environment
 python -m venv venv
