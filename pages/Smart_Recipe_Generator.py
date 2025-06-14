@@ -124,7 +124,6 @@ with col1:
     st.markdown("### 👤 Profile")
     st.image(user.profile_pic if user.profile_pic else "assets/default_profile.png", width=150)
     st.write(f"**Username:** {user.name}")
-    st.write(f"**Phone Number:** {user.phone}")
     st.write(f"**Email ID:** {user.email}")
 
     if st.button("Logout"):
