@@ -5,6 +5,10 @@ import base64
 import time
 
 st.set_page_config(page_title="Smart Recipe Generator", layout="centered")
+from db import create_database
+
+# Ensure DB is created when app runs
+create_database()
 
 # Set background image
 def add_bg_from_local(image_file):
