@@ -49,6 +49,17 @@ Choose branch (e.g. main)
 
 Set app.py as the entry point
 
+Add OPENROUTER_API_KEY in Secrets:
+
+Go to Settings > Secrets
+
+Add:
+
+ini
+Copy
+Edit
+OPENROUTER_API_KEY = your-key-here
+
 Click Deploy.
 
 🧠 Tech Stack
