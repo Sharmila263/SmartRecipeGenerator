@@ -15,24 +15,7 @@ A smart and simple AI-powered recipe generator built with **Streamlit**. Users c
 
 ---
 
-## 📁 Project Structure
 
-Smart-Recipe-Generator/
-├── app.py # Login and Registration UI
-├── pages/
-│ └── Smart_Recipe_Generator.py # Main recipe generator interface
-├── ai_recipe.py # AI logic for recipe generation
-├── db.py # SQLAlchemy DB model
-├── requirements.txt # Required Python packages
-├── assets/
-│ └── main_bg.jpg # Background image
-├── utils/
-│ ├── hashing.py # Salted password hashing
-│ 
-└── database/
-└── users.db # SQLite DB
-
----
 
 ## 🛠️ Installation
 
